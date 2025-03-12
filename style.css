@@ -91,3 +91,20 @@ hr {
     display: block;
   }
 }
+
+// Copy !!
+@media (max-width: 600px) {
+  .count-section {
+    display: block;
+  }
+  .count {
+    display: block;
+  }
+  .linkedin {
+    margin-top: 80px;
+  }
+  .text-area {
+    width: 330px;
+    font-size: 25px;
+  }
+}
